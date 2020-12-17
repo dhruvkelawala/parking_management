@@ -10,12 +10,6 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   DatabaseReference databaseReference;
 
-  @override
-  void initState() {
-    super.initState();
-    getSensorValue();
-  }
-
   Future getSensorValue() async {
     databaseReference =
         FirebaseDatabase.instance.reference().child("automation-product");
