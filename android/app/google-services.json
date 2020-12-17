@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585296125035",
+    "firebase_url": "https://automation-product.firebaseio.com",
+    "project_id": "automation-product",
+    "storage_bucket": "automation-product.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585296125035:android:fc731beec0c688498e252e",
+        "android_client_info": {
+          "package_name": "com.example.parking_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585296125035-f3b35i3e6kmliub5q4doqrju0t4tf2ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWgGietxT5_Ub9AGSpjQcUydmB-k0QO78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585296125035-f3b35i3e6kmliub5q4doqrju0t4tf2ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
